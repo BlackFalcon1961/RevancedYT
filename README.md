@@ -1,2 +1,2 @@
 # RevancedYT
-Compiled versions of YT ReVanced and YT Music ReVanced
+Compiled versions of YouTube ReVanced
